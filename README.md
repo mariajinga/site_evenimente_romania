@@ -1,6 +1,5 @@
 # SITE WEB - EVENIMENTE ROMÂNIA 
-Realizarea site-ului web pentru Serviciul Teritorial de Știri ROMNEWS SRL
-Development of the website for Serviciul Teritorial de Știri ROMNEWS SRL
+Realizarea site-ului web pentru Serviciul Teritorial de Știri ROMNEWS SRL || Development of the website for Serviciul Teritorial de Știri ROMNEWS SRL
 
 *******************************************************
 ### *IMPORTANT*
